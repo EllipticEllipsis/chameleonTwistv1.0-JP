@@ -1,6 +1,6 @@
 #include "common.h"
 
-//arg0 is a pointer to the string "mem err!\n"
+//arg0 is a pointer to the string "mem err!\n" matches with -O1
 void func_80055BB0(char*);
 #pragma GLOBAL_ASM("asm/nonmatchings/30FB0/func_80055BB0.s")
 // void func_80055BB0(s32 arg0, s32 arg1, s32 arg2, s32 arg3) {

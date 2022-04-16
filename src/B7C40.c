@@ -1,6 +1,9 @@
 #include "common.h"
 #include "src/io/viint.h"
 
+u32 func_800E2BE0(void);
+void func_800E2C00(u32);
+
 void func_800DC840(f32 value) 
 {
     register u32 saveMask;
